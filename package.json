@@ -1,0 +1,11 @@
+{
+    "author": "SW",
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "censortest",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
