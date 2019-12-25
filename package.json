@@ -1,9 +1,17 @@
 {
     "author": "SW",
-    "name": "censorify",
+    "name": "sw-censorify",
     "version": "0.1.1",
     "description": "Censors words out of text",
-    "main": "censortest",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SophieWXM/nodeproject.git"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
     "dependencies": {},
     "engines": {
         "node": "*"
